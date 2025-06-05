@@ -1,0 +1,62 @@
+{key: C}
+{title: Título da música}
+{subtitle:Tom: %{key}}
+{artist: Interprete da música}
+{composer: Compositor da música}
+
+
+{start_of_abc}
+X:1
+T: Intro
+C: Nord Italian Grand
+M: 4/4
+L: 1/4
+Q: 1/4=120
+K: C
+%%score { RH LH }
+V:RH name="Piano" clef=treble
+V:LH  clef=bass
+[V:RH]
+|: C D E F G A B C' | B A G F E D C G :|
+[V:LH]
+|: C,, D,, E,, F,, G,, A,, B,, C, | B,, A,, G,, F,, E,, D,, C,, G,, :|
+{end_of_abc}
+
+
+{start_of_verse}
+[C]Te louvarei, mesmo [G]quando a dor me alcançar  
+[Am]Te exaltarei, mesmo [F]sem forças pra cantar  
+[C]Porque sei que estás [G]aqui a me escutar  
+[Am]Em teu amor posso [F]descansar  
+{end_of_verse}
+
+{start_of_bridge}
+[C]Te louvarei, mesmo [G]quando a dor me alcançar  
+[Am]Te exaltarei, mesmo [F]sem forças pra cantar  
+[C]Porque sei que estás [G]aqui a me escutar  
+[Am]Em teu amor posso [F]descansar  
+{end_of_bridge}
+
+
+{start_of_chorus}
+[C]Santo, [G]Tu és Santo  
+[Am]Digno de [F]louvor  
+[C]Rei da minha [G]vida  
+[Am]Meu redentor e [F]Senhor  
+{end_of_chorus}
+
+{start_of_verse}
+[C]Mesmo que os montes [G]se movam do lugar  
+[Am]Mesmo se o mar se [F]levantar  
+[C]Confiarei em [G]Ti, meu Salvador  
+[Am]Meu refúgio, [F]meu pastor  
+{end_of_verse}
+
+
+{start_of_chorus}
+[C]Aleluia, [G]Aleluia  
+[Am]Glória a [F]Ti, Senhor  
+[C]Aleluia, [G]Aleluia  
+[Am]Digno de [F]louvor  
+{end_of_chorus}
+
