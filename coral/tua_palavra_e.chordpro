@@ -1,0 +1,20 @@
+{key: G}
+{title: Tua Palavra É (Aclamação)}
+{subtitle:Tom: %{key}}
+{artist: Coral Pequenos Cantores}
+{composer: Elisabete T. do Prado.}
+
+{start_of_chorus}
+[G]Aleluia, [C]aleluia, [G]alelui[D7]a!     2x
+{end_of_chorus}
+
+{start_of_verse}
+T[Em]ua palavra é l[C]âmpada para [D7]os meus p[Em]és
+Tua palavra é l[C]uz para o m[D7]eu cam[Em]inho
+{end_of_verse}
+
+{comment: refrão }
+
+{start_of_verse}
+[C]Ale___[D7]lu___[G]ia!  
+{end_of_verse}

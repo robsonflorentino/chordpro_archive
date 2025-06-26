@@ -2,7 +2,9 @@
 {title: Glória}
 {subtitle:Tom: %{key}}
 {artist: Cantinho da Criança}
-{composer: Glória}
+{composer: }
+
+{transpose: 0}
 
 {start_of_chorus}
 Gl[D]ória a Deus nas[G/D]   altur[D]as     [A/C#]e      aos hom[D]ens   [A]a     sua[D] paz 2X
